@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+}
+#btn{
+    margin: 30px;
+    padding: 10px 20px;
+    outline: none;
+    background-color: cadetblue;
+    color: white;
+}
+#btn:active{
+    background-color: rgb(19, 123, 127);
+    color: black;
+}
